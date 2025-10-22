@@ -1,7 +1,7 @@
 body{
     background-color: aqua;
     background-image:url(pexels-pixabay-531880.jpg) ;
-    background-position: top right;
+    background-position: right top;
     background-attachment: fixed;
 }
 h1{
@@ -15,4 +15,16 @@ h4{
 }
 p{
     color:yellow;
+}
+h3{
+    color:black;
+    text-align: left;
+}
+p{
+    color:yellow;
+    text-align: justify;
+}
+h2{
+    color: rgb(129, 50, 200);
+    text-align: left;
 }
