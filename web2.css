@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    background-image:url(pexels-pixabay-531880.jpg) ;
+    background-position: top right;
+    background-attachment: fixed;
+}
+h1{
+    color:brown;
+    text-align: center;
+
+}
+h4{
+    color:black;
+    text-align: left;
+}
+p{
+    color:yellow;
+}
